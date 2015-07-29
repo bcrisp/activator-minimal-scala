@@ -1,5 +1,4 @@
 name := "minimal-scala"
-sbt.version=0.13.8
 
 version := "1.0"
 
